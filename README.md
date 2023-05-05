@@ -32,9 +32,9 @@ I play football in my free time and I find a funny crossover between my work and
     <li>Vue.js</li>
     <li>Next.js</li>
     <li>Nuxt.js</li>
+    <li>Angular</li>
     <li>Tailwind CSS</li>
     <li>Contentful</li>
-    <li>Webflow</li>
     <li>Webflow</li>
   </ul>
 </details>
