@@ -202,6 +202,6 @@ I play football in my free time and I find a funny crossover between my work and
   </ul>
 </details>
 
-![Profile views](https://gpvc.arturio.dev/perfectdeveloper53)
+![Profile views](https://komarev.com/ghpvc/?username=perfectdeveloper53)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=perfectdeveloper53&mode=weekly)](https://git.io/streak-stats)
