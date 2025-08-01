@@ -213,4 +213,4 @@ I play football in my free time and I find a funny crossover between my work and
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=perfectdeveloper53&mode=weekly)](https://git.io/streak-stats) --> 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=perfectdeveloper53)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=perfectdeveloper53&exclude_days=Sun,Sat)](https://git.io/streak-stats)
